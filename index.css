@@ -1,0 +1,37 @@
+
+body{
+  background-color: #315DBC;
+  font-family: "Roboto", sans-serif;
+  font-style: normal;
+  font-weight: 300;
+  color: #EAE8D0;
+}
+
+
+
+.header{
+  text-align: left;
+  padding: 50px 50px;
+  font-size:4vw;
+}
+
+#title{
+  font-weight: 700;
+}
+#tagline{
+  font-weight:500;
+}
+
+.nextPage{
+  text-align: right;
+  clear: both;
+  font-weight: 100;
+  font-size: 2vw;
+  padding: 0px 10px 10px 0px;
+}
+
+.animation{
+  text-align: center;
+  padding: 10px;
+
+}
